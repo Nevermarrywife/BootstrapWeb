@@ -1,2 +1,1 @@
-# BootstrapWeb
-## HTML响应式网站
+## Bootstrap搭建的HTML响应式网站
